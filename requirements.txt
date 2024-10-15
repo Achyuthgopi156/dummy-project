@@ -1,0 +1,11 @@
+langchain
+uvicorn
+python-multipart
+ctransformers
+torch
+sentence_transformers
+chromadb
+pypdf
+unstructured[all-docs]
+tesseract
+flask
